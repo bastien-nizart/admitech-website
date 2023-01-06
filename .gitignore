@@ -1,0 +1,8 @@
+# Dossiers compilation
+isableFastRender/
+themes/hugo-scroll
+themes/
+
+# Fichiers configuration
+.DS_Store
+.hugo_build.lock
