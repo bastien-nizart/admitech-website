@@ -8,7 +8,7 @@ Bastien Nizart \
 [portfolio](https://bastien.nizart.me)
 
 Salut, je m'appelle Bastien et j'ai 19 ans. Je suis actuellement : 
-- Étudiant en informatique *(BUT Informatique)*
+- Étudiant en informatique *(seconde année de BUT Informatique)*
 - Auto Entrepreneur
 
 Je suis passionné par l'informatique depuis l'âge de mes 12 ans, et ai ainsi réalisé de nombreux projets avec plus ou moins de succès dans des domaines très variés. Ce qui m'a au moins permis d'acquérir un socle de connaissances généraliste relativement solide.
