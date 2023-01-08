@@ -8,7 +8,6 @@ Bastien Nizart \
 [portfolio](https://bastien.nizart.me)
 
 Salut, je m'appelle Bastien et j'ai 19 ans. Je suis actuellement : 
-
 - Étudiant en informatique *(BUT Informatique)*
 - Auto Entrepreneur
 
