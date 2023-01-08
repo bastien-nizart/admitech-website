@@ -18,7 +18,7 @@ Je suis passionné par l'informatique depuis l'âge de mes 12 ans, et ai ainsi r
 * **Langages :** PHP, JAVA, Ruby, Bash, SQL, HTML/CSS, Python, C, GoLang
 * **Technologies :**  Laravel, Symphony, Flutter, Django, Flask, HugoIo
 * **IDE :** PHPStorm, IntelliJ, VSCode, Pycharm
-* **Environnement :** Zsh, MacOS, Linux *(ubuntu / arcolinux)*
+* **Environnement :** Zsh, MacOS, Linux *(PopOS / arcolinux)*
 * **Autres logiciels :** Cyberduck, Hyper, Transmit (FTP)
 
 ## Mon parcours scolaire
